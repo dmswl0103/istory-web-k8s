@@ -1,0 +1,6 @@
+resources:
+- istory-app-config.yml
+- istory-app-deploy.yml
+- istory-app-lb.yml
+
+# 디렉터리마다 kustomization 
